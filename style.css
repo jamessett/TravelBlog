@@ -1,0 +1,36 @@
+body{
+  text-align:center;
+  background-image: url("nature.jpg");
+}
+
+#leaf{
+  background-image: url("leaf.jpg");
+  color:lightblue;
+  text-shadow: 5px 5px blue;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+ul{
+  text-align:center;
+}
+
+p{
+  color: olivedrab
+}
+
+ul{
+  background-color: peachpuff;
+}
+
+li{
+   text-align: center;
+}
+
+nav{
+  text-align: center;
+}
+
+.class{
+  text-align: center;
+  
+}
